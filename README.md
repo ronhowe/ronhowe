@@ -10,7 +10,7 @@ I like to write code and play games when I can.
 📫[E-mail](mailto://ronhowe@hotmail.com)
 💬[Facebook](https://www.facebook.com/ron.howe.888)
 ⚡[GitHub](https://github.com/ronhowe)
-⚡[Patreon](https://www.patreon.com/home)
+⚡[Patreon](https://www.patreon.com/ronhowe)
 🔭[Twitch](https://www.twitch.tv/puhg)
 💬[Twitter](https://twitter.com/ronhowe)
 🔭[YouTube](https://youtube.com/)
