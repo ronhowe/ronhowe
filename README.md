@@ -1,16 +1,38 @@
-💬 Hello there!
+✨Introduction
+___
 
-<!--
-**ronhowe/ronhowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello there!**
 
-Here are some ideas to get you started:
+My name is Ron.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to write code and play games when I can.
+
+📫[E-mail](mailto://ronhowe@hotmail.com)
+💬[Facebook](https://www.facebook.com/ron.howe.888)
+⚡[GitHub](https://github.com/ronhowe)
+⚡[Patreon](https://www.patreon.com/home)
+🔭[Twitch](https://www.twitch.tv/puhg)
+💬[Twitter](https://twitter.com/ronhowe)
+🔭[YouTube](https://youtube.com/)
+<br />
+<br />
+<br />
+👯 Supporters
+___
+
+None.  You could be the first!
+<br />
+<br />
+<br />
+🤔 Resources
+___
+
+[The Markdown Guide](https://www.markdownguide.org/) - *The Markdown Guide* is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.
+<br />
+<br />
+<br />
+😄 Memes
+___
+
+*“There are only 10 types of people in the world: those who understand binary and those who don’t.”*
+
