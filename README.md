@@ -17,13 +17,22 @@ I like to write code and play games when I can.
 <br />
 <br />
 <br />
+
+🌱 Content
+___
+- [The Book of Puhg: Red](https://youtube.com/playlist?list=PL6pL21zZO6rWU2M-S6l3vHIusz01lPwbS)
+<br />
+<br />
+<br />
+
 👯 Supporters
 ___
 
-None.  You could be the first!
+- None... yet.
 <br />
 <br />
 <br />
+
 🤔 Resources
 ___
 
@@ -31,8 +40,8 @@ ___
 <br />
 <br />
 <br />
+
 😄 Memes
 ___
 
 *“There are only 10 types of people in the world: those who understand binary and those who don’t.”*
-
