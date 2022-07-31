@@ -3,9 +3,11 @@ ___
 
 **Hello there!**
 
-My name is Ron.
+My name is Ron.  a.k.a. Puhg
 
-I like to write code and play games when I can.
+I like to write code and play games.
+
+*"The formula for my happiness: a Yes, a No, a straight line, a goal."* - Nietzsche
 
 📫[E-mail](mailto://ronhowe@hotmail.com)
 💬[Facebook](https://www.facebook.com/Puhg-Plays-111519027154532)
