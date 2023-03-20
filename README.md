@@ -22,7 +22,8 @@ I like to write code and play games.
 
 🌱 Content
 ___
-- [The Book of Puhg: Red](https://youtube.com/playlist?list=PL6pL21zZO6rWU2M-S6l3vHIusz01lPwbS)
+- TODO
+
 <br />
 <br />
 <br />
