@@ -1,6 +1,5 @@
 ✨Introduction
 ___
-
 **Hello there!**
 
 My name is Ron.  a.k.a. Puhg
@@ -15,14 +14,28 @@ I like to write code and play games.
 ⚡[Patreon](https://www.patreon.com/ronhowe)
 🔭[Twitch](https://www.twitch.tv/puhg)
 💬[Twitter](https://twitter.com/ronhowe)
-🔭[YouTube](https://youtube.com/)
+🔭[YouTube](https://www.youtube.com/channel/UCpq0yabh29TtD9ri1SSZ3jA)
+
 <br />
 <br />
 <br />
 
-🌱 Content
+😄 Memes
 ___
-- TODO
+*“There are only 10 types of people in the world: those who understand binary and those who don’t.”*
+
+<br />
+<br />
+<br />
+
+🌱 Goals
+___
+- Earn income through social media and online streaming to afford the following:
+    - Star Wars: The Old Republic Subscription @ $15
+    - World of Warcraft Subscription @ $15
+    - Xbox One X @ $700
+    - New PC @ $5000 (I roll deep.)
+- Deliver "resume as code" by writing open-source software.
 
 <br />
 <br />
@@ -30,21 +43,7 @@ ___
 
 👯 Supporters
 ___
-
-- None... yet.
+- None... yet.  Become a Patroen subscriber and get your name added here in recognition.
 <br />
 <br />
 <br />
-
-🤔 Resources
-___
-
-[The Markdown Guide](https://www.markdownguide.org/) - *The Markdown Guide* is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.
-<br />
-<br />
-<br />
-
-😄 Memes
-___
-
-*“There are only 10 types of people in the world: those who understand binary and those who don’t.”*
