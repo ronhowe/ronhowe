@@ -28,19 +28,6 @@ ___
 <br />
 <br />
 
-🌱 Goals
-___
-- Earn income through social media and online streaming to afford the following:
-    - Star Wars: The Old Republic Subscription @ $15
-    - World of Warcraft Subscription @ $15
-    - Xbox One X @ $700
-    - New PC @ $5000 (I roll deep.)
-- Deliver "resume as code" by writing open-source software.
-
-<br />
-<br />
-<br />
-
 👯 Supporters
 ___
 - None... yet.  Become a Patroen subscriber and get your name added here in recognition.
