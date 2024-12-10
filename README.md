@@ -2,18 +2,16 @@
 ___
 **Hello there!**
 
-My name is Ron.  a.k.a. Puhg
+My name is Ron Howe.  a.k.a. Puhg
 
 I like to write code and play games.
 
 *"The formula for my happiness: a Yes, a No, a straight line, a goal."* - Nietzsche
 
 📫[E-mail](mailto://ronhowe@hotmail.com)
-💬[Facebook](https://www.facebook.com/Puhg-Plays-111519027154532)
 ⚡[GitHub](https://github.com/ronhowe)
 ⚡[Patreon](https://www.patreon.com/ronhowe)
 🔭[Twitch](https://www.twitch.tv/puhg)
-💬[Twitter](https://twitter.com/ronhowe)
 🔭[YouTube](https://www.youtube.com/channel/UCpq0yabh29TtD9ri1SSZ3jA)
 
 <br />
