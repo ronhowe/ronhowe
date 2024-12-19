@@ -10,14 +10,16 @@ I like to write code and play games.
 
 📫[E-mail](mailto://ronhowe@hotmail.com)
 ⚡[GitHub](https://github.com/ronhowe)
-⚡[Patreon](https://www.patreon.com/ronhowe)
+📫[LinkedIn](https://www.linkedin.com/in/ronaldhowe/)
+📫[Patreon](https://www.patreon.com/ronhowe)
 🔭[Twitch](https://www.twitch.tv/puhg)
+📫[X](https://x.com/ronhowe)
 🔭[YouTube](https://www.youtube.com/channel/UCpq0yabh29TtD9ri1SSZ3jA)
 
 <br />
 
 👯 Supporters
 ___
-None... yet.  Become a Patroen subscriber and get your name added here in recognition.
+None... yet.  Become a Patroen subscriber and get your name added here in recognition.  =)
 
 <br />
